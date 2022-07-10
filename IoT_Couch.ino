@@ -39,6 +39,7 @@ void setup_wifi() {
     Serial.print(".");
   }
 
+
   randomSeed(micros());
 
   Serial.println("");
